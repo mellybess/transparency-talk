@@ -97,7 +97,7 @@ The are redesigning the website and have an [alpha  version](https://bloomington
 ### Opportunities: City of Bloomington uReport
 ![transparency 014](https://cloud.githubusercontent.com/assets/8127456/19916859/428249d4-a07b-11e6-9bb9-861c41d9cd58.jpeg)
 
-Another gem from Bloomington is their [uReport application](https://github.com/City-of-Bloomington/uReport). This is a app to allow residents to report issues (like 311), and it's open source on GitHub. So residents and other departments can see what they are building, weight in and even contribute.
+Another gem from Bloomington is their [uReport application](https://github.com/City-of-Bloomington/uReport). This is a app to allow residents to report issues (like 311), and it's open source on GitHub. So residents and other departments can see what they are building, weigh in and even contribute.
 
 This is a tool that is useful outside of Bloomington. Making this software open source on GitHub.com mean *potentially* other cities can make a copy of it and either use it directly, or customize it to their needs, and contribute back to make the software better. As opposed to building and maintaining their own from scratch.
 
