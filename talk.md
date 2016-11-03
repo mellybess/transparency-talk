@@ -39,7 +39,7 @@ The circle graph here is from Nasa's JPL and is a representation of teams partic
 ![transparency 008](https://cloud.githubusercontent.com/assets/8127456/19916857/425fab68-a07b-11e6-87a7-024fce98635b.jpeg)
 
 ### Types of transparency: Inside a department
-![transparency 009](https://cloud.githubusercontent.com/assets/8127456/19916856/425eda94-a07b-11e6-9f2d-fb10d573620c.jpeg)
+![transparency 009](https://cloud.githubusercontent.com/assets/8127456/19955464/f1e8a2e2-a13e-11e6-91dc-9118a3441aa9.jpeg)
 
 Being unable to find information, the right domain expert, or the state of projects around your organization is a barrier to getting work done.
 
@@ -47,19 +47,18 @@ Transparency inside a department means making it easy to find that information, 
 
 Communicating transparently (in writing, somewhere linkable) reduces the "you had to be there" problem, discussed in Ben Balter's [15 Rules for communicating at GitHub](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
 
-> Asynchronous communication through high-fidelity mediums like issues and chat eliminate the endemic “you had to be there” aspect of most corporate workflows, and reduces the need for a dedicated management class to capture, collect, and shuttle information back and forth between business units. You could have the best tools in the world, but without the necessary social norms, you’re setting yourself up for failure.
 
-While you don't need to go as far as to eliminate all managers, teams and departments can benefit from having a searchable place to find status, context, and roadmaps for projects that might relevant to them as opposed to having to join meetings or email lists.
+Teams and departments can benefit from having a searchable place to find status, context, and roadmaps for projects that might relevant to them as opposed to having to join meetings or email lists.
 
 ### Types of transparency: Between departments
-![transparency 010](https://cloud.githubusercontent.com/assets/8127456/19916855/425ec9c8-a07b-11e6-8c57-e3d98b75a402.jpeg)
+![transparency 010](https://cloud.githubusercontent.com/assets/8127456/19955462/f1e5824c-a13e-11e6-841e-bb0eea64abf8.jpeg)
 
 Departments in the same regions, working with similar populations, or on similar issues across regions are often tackling similar problems in different ways. Having access to data, current projects, and teams focused on certain initiatives has the potential to provide better services.
 
 An analogy here is open source: people across departments are trying to solve the same problems on their own. There are a lot of efforts to cross-pollinate best practices, successful projects, etc. across departments. Creating ways to make the work done in one department open to others could lower the barrier to this cross-pollination and increase collaboration.
 
 ### Types of transparency: With Constituents
-![transparency 011](https://cloud.githubusercontent.com/assets/8127456/19916862/428499e6-a07b-11e6-844d-4052f93e6fed.jpeg)
+![transparency 011](https://cloud.githubusercontent.com/assets/8127456/19955463/f1e844b4-a13e-11e6-8a2c-ae8755766b13.jpeg)
 
 Records requests, public hearings, etc. exist to bring transparency and participation between agencies and constituents. But it can still be hard to:
 - access information,
@@ -72,8 +71,11 @@ Being transparent with constituents can mean
 - make it easy to figure out what is currently going on in a department and how to get involved
 - increasing civic engagement, even for those who can't make it to a Tuesday night public forum
 
-### Opportunities: SF Business Portal
-![transparency 012](https://cloud.githubusercontent.com/assets/8127456/19916861/428441f8-a07b-11e6-90c5-d99e1a28303d.jpeg)
+### Examples
+![transparency 012](https://cloud.githubusercontent.com/assets/8127456/19955466/f200dd12-a13e-11e6-9c52-8773cc793454.jpeg)
+
+### SF Business Portal
+![transparency 013](https://cloud.githubusercontent.com/assets/8127456/19955467/f200fc20-a13e-11e6-9753-9b1fc2cf4068.jpeg)
 
 The SF Business Portal is a great example of cross department and external transparency. This award winning website, coordinated and built by the CCSF Department of Technology was built to organize information that potential SF business owners need in order to open different types of businesses.
 
@@ -85,8 +87,8 @@ The permits were developed in silos, and the holistic result is...it is pretty h
 
 The interface is modern, visual, and at its heart designed to make it easy for people to find the information they need.
 
-### Opportunities: City of Bloomington Website
-![transparency 013](https://cloud.githubusercontent.com/assets/8127456/19950613/c9232f4a-a115-11e6-9a61-8355f41486d7.jpeg)
+### City of Bloomington Website
+![transparency 014](https://cloud.githubusercontent.com/assets/8127456/19955469/f20289b4-a13e-11e6-91e4-a0cd6861fa0a.jpeg)
 
 The City of Bloomington Indiana is doing some awesome stuff!
 
@@ -94,17 +96,20 @@ One example is their website redesign. The [current version](https://bloomington
 
 The are redesigning the website and have an [alpha  version](https://bloomington.in.gov/alpha/) that they are soliciting public feedback on via a Google form. A great example of showing the public what work is being done and allowing them to weigh in asynchronously.
 
-### Opportunities: City of Bloomington uReport
-![transparency 014](https://cloud.githubusercontent.com/assets/8127456/19916859/428249d4-a07b-11e6-9bb9-861c41d9cd58.jpeg)
+### City of Bloomington uReport
+![transparency 015](https://cloud.githubusercontent.com/assets/8127456/19955465/f20090be-a13e-11e6-96e3-0ebda99724b5.jpeg)
 
 Another gem from Bloomington is their [uReport application](https://github.com/City-of-Bloomington/uReport). This is a app to allow residents to report issues (like 311), and it's open source on GitHub. So residents and other departments can see what they are building, weigh in and even contribute.
 
 This is a tool that is useful outside of Bloomington. Making this software open source on GitHub.com means *potentially* other cities can make a copy of it and either use it directly, or customize it to their needs, and contribute back to make the software better. As opposed to building and maintaining their own from scratch.
 
-### Opportunities: Federal Source Code Policy
-![transparency 015](https://cloud.githubusercontent.com/assets/8127456/19916858/4281c932-a07b-11e6-8485-1176b29b052a.jpeg)
+### Federal Source Code Policy
+![transparency 016](https://cloud.githubusercontent.com/assets/8127456/19955468/f20216fa-a13e-11e6-92bc-3887a0df006c.jpeg)
 
 The Federal Source Code policy is another example of both working in a transparent way on a project...which is about transparency. The policy itself is hosted on GitHub and the public can open issues to discuss the policy with it's maintainers, and open pull requests to edit the policy.
+
+### Patterns and Tools
+![transparency 017](https://cloud.githubusercontent.com/assets/8127456/19955482/f3003a14-a13e-11e6-9918-d6897a0f3a27.jpeg)
 
 ### Modeling Transparency
 ![transparency016](https://cloud.githubusercontent.com/assets/8127456/19950560/84397d26-a115-11e6-8001-d67ece447c03.jpeg)
@@ -118,7 +123,7 @@ By working on your stuff out in the open, making it easy for others to find reso
 Also, it can save you time and make you look super smart and together when people ask you questions.
 
 ### Tools for transparency
-![transparency017](https://cloud.githubusercontent.com/assets/8127456/19950561/8439c4f2-a115-11e6-9276-bbcee68343a2.jpeg)
+![transparency 019](https://cloud.githubusercontent.com/assets/8127456/19955472/f23c9668-a13e-11e6-8666-f6c99ebe41fa.jpeg)
 
 Tools that don't facilitate transparency:
 - hand written notes
@@ -163,7 +168,7 @@ Chatrooms and teams on GitHub also has the benefit of removing the burden of hav
 ### Documentation
 ![transparency020](https://cloud.githubusercontent.com/assets/8127456/19950563/843bb60e-a115-11e6-80d7-6d0cf71f7620.jpeg)
 
-Get important conversations related to particular topics out of email, off the phone, and into writing, somewhere linkable, searchable and easy to find close to the project it's about. In my biased opinion, GitHub is the right place for this. But even links to relevant documents, chat channels, and other sources on an intranet page would get people off to a good start. 
+Get important conversations related to particular topics out of email, off the phone, and into writing, somewhere linkable, searchable and easy to find close to the project it's about. In my biased opinion, GitHub is the right place for this. But even links to relevant documents, chat channels, and other sources on an intranet page would get people off to a good start.
 
 ### Q&A
 ![transparency021](https://cloud.githubusercontent.com/assets/8127456/19950564/843da248-a115-11e6-928f-b53e2564af83.jpeg)
