@@ -75,7 +75,7 @@ Being transparent with constituents can mean
 ### Opportunities: SF Business Portal
 ![transparency 012](https://cloud.githubusercontent.com/assets/8127456/19916861/428441f8-a07b-11e6-90c5-d99e1a28303d.jpeg)
 
-The SF Business Portal is a great example of cross department and external transparency. This award winning website, coordinated and built by the CCSF Department of Technology was buily to organize information that potential SF business owners need in order to open different types of businesses.
+The SF Business Portal is a great example of cross department and external transparency. This award winning website, coordinated and built by the CCSF Department of Technology was built to organize information that potential SF business owners need in order to open different types of businesses.
 
 It's purpose was two-fold though
 - Help people figure what they need to do to open a business (what permits are needed, what steps to take, what resources are available)
