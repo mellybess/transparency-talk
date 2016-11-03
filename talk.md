@@ -33,12 +33,12 @@ Many agencies across the :earth_africa: use GitHub, but my familiarity is mostly
 ### Why Government Agencies Adopt GitHub?
 ![transparency 007](https://cloud.githubusercontent.com/assets/8127456/19916854/425ebb0e-a07b-11e6-912a-7109f487bff2.jpeg)
 
-The circle graph here is from Nasa's JPL and is a representation of teams participating in other team's projects once they introduced GitHub Enterprise. Increasing transparency and collaboration is often at the top of the list for government agencies moving to GitHub. I have the privilege of speaking to some of these groups as they progress through their transformations.
+The [circle graph](https://enterprise.github.com/case-studies/jpl) here is from Nasa's JPL and is a representation of teams participating in other team's projects once they introduced GitHub Enterprise. Increasing transparency and collaboration is often at the top of the list for government agencies moving to GitHub. I have the privilege of speaking to some of these groups as they progress through their transformations.
 
 ### Types of transparency
 ![transparency 008](https://cloud.githubusercontent.com/assets/8127456/19916857/425fab68-a07b-11e6-87a7-024fce98635b.jpeg)
 
-### Types of transparency: Inside a department
+### Inside a department
 ![transparency 009](https://cloud.githubusercontent.com/assets/8127456/19955464/f1e8a2e2-a13e-11e6-91dc-9118a3441aa9.jpeg)
 
 Being unable to find information, the right domain expert, or the state of projects around your organization is a barrier to getting work done.
@@ -47,17 +47,16 @@ Transparency inside a department means making it easy to find that information, 
 
 Communicating transparently (in writing, somewhere linkable) reduces the "you had to be there" problem, discussed in Ben Balter's [15 Rules for communicating at GitHub](http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
 
-
 Teams and departments can benefit from having a searchable place to find status, context, and roadmaps for projects that might relevant to them as opposed to having to join meetings or email lists.
 
-### Types of transparency: Between departments
+### Between departments
 ![transparency 010](https://cloud.githubusercontent.com/assets/8127456/19955462/f1e5824c-a13e-11e6-841e-bb0eea64abf8.jpeg)
 
 Departments in the same regions, working with similar populations, or on similar issues across regions are often tackling similar problems in different ways. Having access to data, current projects, and teams focused on certain initiatives has the potential to provide better services.
 
-An analogy here is open source: people across departments are trying to solve the same problems on their own. There are a lot of efforts to cross-pollinate best practices, successful projects, etc. across departments. Creating ways to make the work done in one department open to others could lower the barrier to this cross-pollination and increase collaboration.
+An analogy here is open source: people across departments are trying to solve the same problems on their own. There are a lot of efforts to cross-pollinate best practices, successful projects, etc. across departments, and working transparently lowers the barrier to entry and supports cross-pollination efforts.
 
-### Types of transparency: With Constituents
+### With Constituents
 ![transparency 011](https://cloud.githubusercontent.com/assets/8127456/19955463/f1e844b4-a13e-11e6-8a2c-ae8755766b13.jpeg)
 
 Records requests, public hearings, etc. exist to bring transparency and participation between agencies and constituents. But it can still be hard to:
@@ -77,7 +76,7 @@ Being transparent with constituents can mean
 ### SF Business Portal
 ![transparency 013](https://cloud.githubusercontent.com/assets/8127456/19955467/f200fc20-a13e-11e6-9753-9b1fc2cf4068.jpeg)
 
-The SF Business Portal is a great example of cross department and external transparency. This award winning website, coordinated and built by the CCSF Department of Technology was built to organize information that potential SF business owners need in order to open different types of businesses.
+The [SF Business Portal](http://businessportal.sfgov.org/) is a great example of cross department and external transparency. This award winning website, coordinated and built by the CCSF Department of Technology was built to organize information that potential SF business owners need in order to open different types of businesses.
 
 It's purpose was two-fold though
 - Help people figure what they need to do to open a business (what permits are needed, what steps to take, what resources are available)
@@ -116,7 +115,7 @@ The Federal Source Code policy is another example of both working in a transpare
 
 Even if a project isn't centered around collaborating with other departments or constituents, you can still model transparency in the work you do, to bring that into your department.
 
-The idea of modeling modern software practices in government agencies and comapnies is proven to work (18F, Thoughtworks, Pivotal Labs) and modeling transparency is similar.
+The idea of modeling modern software practices in government agencies and companies is proven to work (18F, Thoughtworks, Pivotal Labs) and modeling transparency is similar.
 
 By working on your stuff out in the open, making it easy for others to find resources and, you can start to show the value of transparency.
 
@@ -142,7 +141,7 @@ Key tenants:
 - is it linkable?
 - Is it searchable?
 
-Bonus points:
+Bonus points for documents/policy/software:
 - Can you see how it is changed over time?
 - Can you see who changed it?
 - Can you see the context behind the change?
@@ -168,7 +167,7 @@ Chatrooms and teams on GitHub also has the benefit of removing the burden of hav
 ### Documentation
 ![transparency020](https://cloud.githubusercontent.com/assets/8127456/19950563/843bb60e-a115-11e6-80d7-6d0cf71f7620.jpeg)
 
-Get important conversations related to particular topics out of email, off the phone, and into writing, somewhere linkable, searchable and easy to find close to the project it's about. In my biased opinion, GitHub is the right place for this. But even links to relevant documents, chat channels, and other sources on an intranet page would get people off to a good start.
+Get important conversations related to particular topics out of email, off the phone, and into writing, somewhere linkable, searchable and easy to find close to the project it's about. In my biased opinion, GitHub is the right place for this. But links to relevant documents, chat channels, and other sources on an intranet page is a great place to start.
 
 ### Q&A
 ![transparency021](https://cloud.githubusercontent.com/assets/8127456/19950564/843da248-a115-11e6-928f-b53e2564af83.jpeg)
