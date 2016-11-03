@@ -28,7 +28,7 @@ I moved to GitHub as a Solutions Engineer, where I have the privilege of getting
 ### GitHub in Government
 ![transparency 006](https://cloud.githubusercontent.com/assets/8127456/19916853/425e2fae-a07b-11e6-86f5-2e47b1aadb22.jpeg)
 
-Many agencies across the :earth: use GitHub, but my familiarity is mostly with organizations in the US government. We have customers who solely use GitHub Enterprise for internal purposes and some who only use GitHub.com for open source projects, and many with both.
+Many agencies across the :earth_africa: use GitHub, but my familiarity is mostly with organizations in the US government. We have customers who solely use GitHub Enterprise for internal purposes and some who only use GitHub.com for open source projects, and many with both.
 
 ### Why Government Agencies Adopt GitHub?
 ![transparency 007](https://cloud.githubusercontent.com/assets/8127456/19916854/425ebb0e-a07b-11e6-912a-7109f487bff2.jpeg)
